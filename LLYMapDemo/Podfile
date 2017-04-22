@@ -1,0 +1,10 @@
+target 'LLYMapDemo' do
+
+
+pod 'AMap2DMap'
+pod 'AFNetworking'
+pod 'YYKit'
+
+end
+
+
